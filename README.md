@@ -1,4 +1,4 @@
-# producere-consumer
+# producer-consumer
 This project explores communication patterns in AWS using a producer-consumer architecture implemented using Amazon EventBridge.
 Overview
 
